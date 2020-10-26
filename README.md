@@ -1,7 +1,5 @@
 # lilafont
 
---
-
 ... and now for something completely different: a font!
 
 ### Installation & Usage
