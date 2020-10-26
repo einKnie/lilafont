@@ -10,7 +10,7 @@ Alternatively, you can install the font manually (on Linux) by copying the __.tt
 
 ### The font
 
-![the font](lilafont.png "lilafont")
+![the font](img/lilafont.png "lilafont")
 
 
 
